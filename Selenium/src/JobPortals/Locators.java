@@ -8,4 +8,5 @@ public class Locators
 
 public static By uname=By.id("idvalue");
 public static By pwde=By.id("dfhbdhb");
+public static By pwdee=By.id("dfhbdhb");
 }
